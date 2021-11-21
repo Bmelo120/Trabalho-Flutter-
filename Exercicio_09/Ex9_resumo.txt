@@ -1,0 +1,4 @@
+O video é um introdução a linguagem dart com o framework flutter 
+de uma forma diferente, ele tem como base o Guilherme que misturar magica com 
+programação. A didaca dele é bom contem humor e é super interessante, para quem
+nunca viu a lnguagem é uma boa introdução
