@@ -28,8 +28,8 @@ class PrimeiraRota extends StatelessWidget {
               decoration: BoxDecoration(
                 color: Colors.red,
               ),
-              accountName: Text("Ana"),
-              accountEmail: Text("ana@ana.com.br"),
+              accountName: Text("Barbara"),
+              accountEmail: Text("Barbara@gmail.com"),
               currentAccountPicture: CircleAvatar(
                 backgroundColor: Colors.white,
                 child: Text("A",
